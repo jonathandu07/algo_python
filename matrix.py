@@ -1,3 +1,4 @@
+import random
 # Affiche une matrice remplie de caractères aléatoires
 
 HAUTEUR = 20  # Définit une constante pour la hauteur de la matrice (nombre de lignes).
